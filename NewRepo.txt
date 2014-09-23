@@ -1,1 +1,16 @@
 My document is now in the last fase of its new creation and it will gain intelligence as this day progresses
+
+<!DOCTYPE>
+<html>
+<head>
+<title>This is how you would create a new web page</title>
+</head>
+<body>
+<p>In this body the whole page will take form and you will learn more about my business or your business for that matter, keep watchimg this space.</p>
+<h1>It needs a few things first to make it look real professional</h1>
+<li>Header</li>
+<li>Footer</li>
+<li>Menu List</li>
+<li>Pictures</li>
+<li>Logo</li>
+<h2>Now you have something better</h2>
