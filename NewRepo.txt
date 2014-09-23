@@ -14,3 +14,9 @@ My document is now in the last fase of its new creation and it will gain intelli
 <li>Pictures</li>
 <li>Logo</li>
 <h2>Now you have something better</h2>
+
+<p>I had to come back, to end this web page. Why? Becauseb I have not finished yet</p>
+</body>
+</html>
+
+That is what it should look like!!!
